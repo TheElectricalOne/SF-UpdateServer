@@ -1,0 +1,156 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Configurations :",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Physics Options",
+          "Description": [
+            ""
+          ],
+          "Type": "PhysicsEnums",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "physicsplus"
+        },
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "SS2 Options",
+          "Description": [
+            ""
+          ],
+          "Type": "SS2Enum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "hs"
+        },
+        {
+          "Name": "IncludeDir2",
+          "DisplayName": "Boost Sound Changes?",
+          "Description": [
+            ""
+          ],
+          "Type": "BSEnums",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Enabled"
+        },
+        {
+          "Name": "IncludeDir3",
+          "DisplayName": "Animation Changes?",
+          "Description": [
+            "This Will Affect Sonic, SS, SS2 And Tails So Far!"
+          ],
+          "Type": "AnimsEnums",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Enabled"
+        },
+        {
+          "Name": "IncludeDir4",
+          "DisplayName": "Try Again Text Changes?",
+          "Description": [
+            "This Changes The Text For The Try Again Screen!"
+          ],
+          "Type": "TATEnums",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Enabled"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "SS2Enum": [
+      {
+        "DisplayName": "Hyper Super Sonic 2",
+        "Value": "hs",
+        "Description": [
+          "Turns The Original SS2 Skin To Hyper Sonic From DonArceus"
+        ]
+      },
+      {
+        "DisplayName": "Cyber Super Sonic 2",
+        "Value": "cs",
+        "Description": [
+          "Turns The Original SS2 Skin To Cyber Super Sonic From Anferny"
+        ]
+      }
+    ],
+    "BSEnums": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "enabledbs",
+        "Description": [
+          "Enables The Changes To The Boost Sound From NaN0_m8!"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "disabledbs",
+        "Description": [
+          "Disables The Changes To The Boost Sound From NaN0_m8!"
+        ]
+      }
+    ],
+    "PhysicsEnums": [
+      {
+        "DisplayName": "Physics +",
+        "Value": "physicsplus",
+        "Description": [
+          "Makes Sonic Have Changed Speed, Momentum, Combat And Cyberspace Physics!"
+        ]
+      },
+      {
+        "DisplayName": "Max Physics",
+        "Value": "max",
+        "Description": [
+          "Makes Sonic Have Max Physics From This Mod!"
+        ]
+      },
+      {
+        "DisplayName": "Momentum Physics",
+        "Value": "lower",
+        "Description": [
+          "Makes Sonic Have Momentum Type Physics From This Mod!"
+        ]
+      }
+    ],
+    "AnimsEnums": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "enableda",
+        "Description": [
+          "Enables The Custom Animations For Sonic, SS, SS2 And Tails From BanaBBOI!"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "disableda",
+        "Description": [
+          "Disables The Custom Animations For Sonic, SS, SS2 And Tails From BanaBBOI!"
+        ]
+      }
+    ],
+    "TATEnums": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "enabledt",
+        "Description": [
+          "Enables The Custom Try Again Screen Text!"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "disabledt",
+        "Description": [
+          "Disables The Custom Try Again Screen Text!"
+        ]
+      }
+    ]
+  },
+
+  "IniFile": "mod.ini"
+}
