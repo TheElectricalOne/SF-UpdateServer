@@ -13,7 +13,7 @@
           "Type": "PhysicsEnums",
           "MinValue": null,
           "MaxValue": null,
-          "DefaultValue": "default"
+          "DefaultValue": "physics+"
         },
         {
           "Name": "IncludeDir1",
@@ -97,10 +97,10 @@
     ],
     "PhysicsEnums": [
       {
-        "DisplayName": "Default Physics",
-        "Value": "default",
+        "DisplayName": "Physics +",
+        "Value": "physics+",
         "Description": [
-          "Makes Sonic Have Default Physics From This Mod!"
+          "Makes Sonic Have Changed Speed, Momentum, Combat And Cyberspace Physics!"
         ]
       },
       {
