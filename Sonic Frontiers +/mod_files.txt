@@ -15,8 +15,8 @@ add disableda/raw/character/supersonic.pac
 add disableda/raw/character/tailsP.pac
 add disabledbs/raw/sound/sonic_sound/se_rangers_player_sonic.acb
 add disabledbs/raw/sound/sonic_sound/sonic_sound.level
-delete default
-delete physics+
+delete default/
+delete physics+/
 add configure.json
 add mod.ini
 
