@@ -5,18 +5,19 @@ add enableda/raw/character/tailsP.pac
 add enabledbs/raw/sound/sonic_sound/se_rangers_player_sonic.acb
 add enabledbs/raw/sound/sonic_sound/sonic_sound.level
 add enabledt/raw/text/text_common_en.pac
+add enabledb/raw/boss/giant01
 add hs/raw/character/supersonic2.pac
 add lower/raw/character/playercommon.pac
 add max/raw/character/playercommon.pac
 add cs/raw/character/supersonic2.pac
-add physicsplus/raw/character/playercommon.pac
+add phphysicsplus/raw/character/playercommon.pac
 add disableda/raw/character/sonic.pac
 add disableda/raw/character/supersonic.pac
 add disableda/raw/character/tailsP.pac
 add disabledbs/raw/sound/sonic_sound/se_rangers_player_sonic.acb
 add disabledbs/raw/sound/sonic_sound/sonic_sound.level
+add disabledb/raw/boss/giant01
 delete default/
 delete physics+/
 add configure.json
 add mod.ini
-
