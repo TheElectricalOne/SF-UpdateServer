@@ -10,7 +10,7 @@ add hs/raw/character/supersonic2.pac
 add lower/raw/character/playercommon.pac
 add max/raw/character/playercommon.pac
 add cs/raw/character/supersonic2.pac
-add phphysicsplus/raw/character/playercommon.pac
+add physicsplus/raw/character/playercommon.pac
 add disableda/raw/character/sonic.pac
 add disableda/raw/character/supersonic.pac
 add disableda/raw/character/tailsP.pac
