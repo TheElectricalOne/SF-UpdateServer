@@ -65,7 +65,7 @@
           "Description": [
             "This Changes The Boss Health For The First 3 Titans!"
           ],
-          "Type": "TATEnums",
+          "Type": "BHealthEnums",
           "MinValue": null,
           "MaxValue": null,
           "DefaultValue": "enabledb"
