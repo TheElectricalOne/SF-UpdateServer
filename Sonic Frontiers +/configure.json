@@ -35,7 +35,7 @@
           "Type": "BSEnums",
           "MinValue": null,
           "MaxValue": null,
-          "DefaultValue": "Enabled"
+          "DefaultValue": "enabledbs"
         },
         {
           "Name": "IncludeDir3",
@@ -46,7 +46,7 @@
           "Type": "AnimsEnums",
           "MinValue": null,
           "MaxValue": null,
-          "DefaultValue": "Enabled"
+          "DefaultValue": "enableda"
         },
         {
           "Name": "IncludeDir4",
@@ -57,7 +57,18 @@
           "Type": "TATEnums",
           "MinValue": null,
           "MaxValue": null,
-          "DefaultValue": "Enabled"
+          "DefaultValue": "enabledt"
+        },
+        {
+          "Name": "IncludeDir5",
+          "DisplayName": "Boss Health Changes?",
+          "Description": [
+            "This Changes The Boss Health For The First 3 Titans!"
+          ],
+          "Type": "TATEnums",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "enabledb"
         }
       ]
     }
@@ -76,6 +87,22 @@
         "Value": "cs",
         "Description": [
           "Turns The Original SS2 Skin To Cyber Super Sonic From Anferny"
+        ]
+      }
+    ],
+    "BHealthEnums": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "enabledb",
+        "Description": [
+          "Enables The Changes To The Boss' Health!"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "disabledb",
+        "Description": [
+          "Disables The Changes To The Boss' Health!"
         ]
       }
     ],
