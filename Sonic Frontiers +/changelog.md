@@ -1,3 +1,7 @@
+## Sonic Frontiers + V1.0.4
+- Added Boss Health Changes For Giganto
+- Added Some Small Physics To Tails For The Physics + Config
+
 ## Sonic Frontiers + V1.0.31
 - Fixed Physics + From Not Loading/ Working
 
