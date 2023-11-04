@@ -17,6 +17,7 @@ add disableda/raw/character/tailsP.pac
 add disabledbs/raw/sound/sonic_sound/se_rangers_player_sonic.acb
 add disabledbs/raw/sound/sonic_sound/sonic_sound.level
 add disabledb/raw/boss/giant01.pac
+add disabledss2/raw/character/supersonic2.pac
 delete default/
 delete physics+/
 add configure.json
