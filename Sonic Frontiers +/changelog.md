@@ -1,5 +1,5 @@
 ## Sonic Frontiers + V1.0.5
-- Added A Disabled Config For The SS2 Retexture!
+- Added A Config To Disable The SS2 Retexture!
 
 ## Sonic Frontiers + V1.0.4
 - Added Boss Health Changes For Giganto
