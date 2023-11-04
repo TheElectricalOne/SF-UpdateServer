@@ -79,14 +79,21 @@
         "DisplayName": "Hyper Super Sonic 2",
         "Value": "hs",
         "Description": [
-          "Turns The Original SS2 Skin To Hyper Sonic From DonArceus"
+          "Turns The Original SS2 Skin To Hyper Sonic From DonArceus!"
         ]
       },
       {
         "DisplayName": "Cyber Super Sonic 2",
         "Value": "cs",
         "Description": [
-          "Turns The Original SS2 Skin To Cyber Super Sonic From Anferny"
+          "Turns The Original SS2 Skin To Cyber Super Sonic From Anferny!"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "disabledss2",
+        "Description": [
+          "Disables The Retexture Of SS2!"
         ]
       }
     ],
