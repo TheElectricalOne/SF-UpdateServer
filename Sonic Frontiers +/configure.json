@@ -8,7 +8,7 @@
           "Name": "IncludeDir0",
           "DisplayName": "Physics Options",
           "Description": [
-            ""
+            "Affects All Characters!"
           ],
           "Type": "PhysicsEnums",
           "MinValue": null,
@@ -134,21 +134,21 @@
         "DisplayName": "Physics +",
         "Value": "physicsplus",
         "Description": [
-          "Makes Sonic Have Changed Speed, Momentum, Combat And Cyberspace Physics!"
+          "Makes All Characters Have Changed Speed, Momentum, Combat And Cyberspace Physics!"
         ]
       },
       {
         "DisplayName": "Max Physics",
         "Value": "max",
         "Description": [
-          "Makes Sonic Have Max Physics From This Mod!"
+          "Makes All Characters Have Max Physics From This Mod!"
         ]
       },
       {
         "DisplayName": "Momentum Physics",
         "Value": "lower",
         "Description": [
-          "Makes Sonic Have Momentum Type Physics From This Mod!"
+          "Makes Sonic Have Momentum Type Physics From This Mod! (Other Characters Are Not Yet Updated For The Momentum Config)"
         ]
       }
     ],
