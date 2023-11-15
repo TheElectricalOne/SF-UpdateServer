@@ -1,3 +1,12 @@
+## Sonic Frontiers + V1.0.7
+- Added Amy's Physics To Physics +
+- Added Amy's Physics To Max Physics
+- Added Knuckles' Physics To Physics +
+- Added Knuckles' Physics To Max Physics
+- Added Tails' Physics To Physics +
+- Added Tails' Physics To Max Physics
+- Removed Tails' Combat For Now (i think)
+
 ## Sonic Frontiers + V1.0.6
 - Fixed Cyberspace Turning For Physics+ As Had Worse Turning Speed Then Originally!
 - Faster Homing Attack Depending On The Physic Config!
