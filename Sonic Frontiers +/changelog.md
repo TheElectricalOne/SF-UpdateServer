@@ -1,3 +1,7 @@
+## Sonic Frontiers + V1.0.71
+- Removed The Update Server!
+- Please Download The Latest File On Gamebanana!
+
 ## Sonic Frontiers + V1.0.7
 - Added Amy's Physics To Physics + !
 - Added Amy's Physics To Max Physics!
